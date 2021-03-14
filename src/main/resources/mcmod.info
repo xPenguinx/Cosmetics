@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Cosmetics",
+  "name": "Cosmetics",
+  "description": "Custom Cosmetic OBJ Renderer for Players",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xPenguinx"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
